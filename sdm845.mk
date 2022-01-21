@@ -307,15 +307,7 @@ PRODUCT_PACKAGES += \
 
 # Recovery
 PRODUCT_PACKAGES += \
-    librecovery_updater_xiaomi \
-    fstab.qcom \
-    init.msm.usb.configfs.rc \
-    init.performance_level.rc \
-    init.qcom.rc \
-    init.qcom.usb.rc \
-    init.target.rc \
-    init.recovery.qcom.rc \
-    ueventd.qcom.rc
+    librecovery_updater_xiaomi
 
 # RenderScript
 PRODUCT_PACKAGES += \
